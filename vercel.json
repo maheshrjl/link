@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/maheshrjl",
+      "statusCode": 301
+    },
+    {
+        "source": "/linkedin",
+        "destination": "https://www.linkedin.com/in/maheshrjl/",
+        "statusCode": 301
+    },
+    {
+        "source": "/twitter",
+        "destination": "https://twitter.com/maheshrjl",
+        "statusCode": 301
+    }
+  ]
+}
