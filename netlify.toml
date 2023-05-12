@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/maheshrjl"
+  status = 301
+
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/maheshrjl/"
+  status = 301
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/maheshrjl"
+  status = 301
