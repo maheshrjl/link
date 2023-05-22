@@ -24,6 +24,16 @@
             "source": "/mastodon",
             "destination": "https://mastodon.online/@maheshrjl",
             "statusCode": 301
+        },
+        {
+            "source": "/resume",
+            "destination": "https://drive.google.com/file/d/1LAgFK9txO33CvRNuvM8odzcRovq7rXOH/view?usp=sharing",
+            "statusCode": 302
+        },
+        {
+            "source": "/resume.pdf",
+            "destination": "https://drive.google.com/file/d/1LAgFK9txO33CvRNuvM8odzcRovq7rXOH/view?usp=sharing",
+            "statusCode": 302
         }
     ]
 }
