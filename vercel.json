@@ -34,6 +34,11 @@
             "source": "/resume.pdf",
             "destination": "https://drive.google.com/file/d/1LAgFK9txO33CvRNuvM8odzcRovq7rXOH/view?usp=sharing",
             "statusCode": 302
+        },
+        {
+            "source": "/ansibleinstall",
+            "destination": "https://raw.githubusercontent.com/maheshrjl/shell-scripts/main/install-ansible.sh",
+            "statusCode": 301
         }
     ]
 }
