@@ -6,4 +6,4 @@
 /resume https://assets.maheshrjl.com/resume.pdf
 /resume.pdf https://assets.maheshrjl.com/resume.pdf
 /ansibleinstall https://raw.githubusercontent.com/maheshrjl/shell-scripts/main/install-ansible.sh
-/lambdadeploy https://raw.githubusercontent.com/maheshrjl/aws-lambda-hello/main/deploy.sh
+/deploylambda https://raw.githubusercontent.com/maheshrjl/aws-lambda-hello/main/deploy.sh
